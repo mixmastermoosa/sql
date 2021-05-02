@@ -9,7 +9,7 @@ Please click on the unique links below to view the query and table results in yo
 <b>Q1.</b> The total number of PCR tests performed as of yesterday in the United States:<br>
 <a href="https://popsql.com/queries/-MZib2bl60J_nEgoNW2w/total-number-pcr-tests-performed-yesterday-may-2-2021?access_token=c592fb181f77557d8f352587315e3bdf" target="_blank" rel="noopener noreferrer">Query for Question 1</a>
 
-<b>Analysis</b>:  The lowest observed volume of tests completed, 256,107 specifically in the last 30 days was yesterday. This can be further observed here, in the following table of results.  NOTE: File was downloaded on 2021-04-27 so yesterday was equal to 2021-04-26 during time of query:
+<b>Analysis</b>:  The lowest observed volume of tests completed, 256,107 specifically in the last 30 days was yesterday. This can be further observed here, in the following table of results.<br>**Note: File was downloaded on 2021-04-27 so yesterday was equal to 2021-04-26 during time of query:
 <a href="https://popsql.com/queries/-MZii5f1IF7Ug899yZjl/total-pcr-tests-performed-last-7-days?access_token=43a3d6318230d4bfd5bb90aa6ca81421" target="_blank" rel="noopener noreferrer">Query for Question 1, last 30 days</a><br> 
 
 <b>Q2.</b> The 7-day rolling average number of new cases per day for the last 30 days:<br>
