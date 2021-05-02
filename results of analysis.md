@@ -21,6 +21,6 @@ Please see line chart attached.
 3. The 10 states with the highest test positivity rate (positive tests / tests performed) for tests performed in the last 30 days:<br>
 <a href="https://popsql.com/queries/-MZib7bt_7PH3vwmmdni/top-10-positive-cases-by-state-last-30-days-may-2-2021?access_token=64eb653924b1caa17e4bfc4bd3c71b87" target="_blank" rel="noopener noreferrer">Query for Question 3</a>
 
-<b>Analysis</b>:  Puerto Rico has a 1.4x higher % positivity rate than Michigan, which has the 2nd highest positivity rate in the table.  However, Puerto Rico is 4x higher in COVID positivity when compared to New York, which has the 10th highest posivity rate in the table.
+<b>Analysis</b>:  Puerto Rico has the highest positivity rate in the table at 1.52%, 1.4x higher % test positivity rate than Michigan which holds the 2nd highest positivity rate in the table at .63%. More importantly, Puerto Rico is 4x higher in COVID positivity when compared to New York, which has the 10th highest posivity rate at .30%.
 
 
