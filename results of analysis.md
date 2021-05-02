@@ -2,7 +2,7 @@
 
 ## DETAILS 
 
-The following queries were generated to answer specific questions from the Torch Data and Analytics project 2021-04-22.
+The following queries were generated to answer questions based on the Torch Data and Analytics project 2021-04-22.
 
 Please click on the unique links below to view the query and table results in your browser, no authentication is required.  
 
