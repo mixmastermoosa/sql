@@ -9,8 +9,8 @@ Please click on the unique links below to view the query and table results in yo
 1. The total number of PCR tests performed as of yesterday in the United States:<br>
 <a href="https://popsql.com/queries/-MZib2bl60J_nEgoNW2w/total-number-pcr-tests-performed-yesterday-may-2-2021?access_token=c592fb181f77557d8f352587315e3bdf" target="_blank" rel="noopener noreferrer">Query for Question 1</a>
 
-<b>Analysis</b>:  The number of PCR tests completed yesterday was the lowest observed volume of tests in the last 30 days, specifically 256,107 tests completed. This can be further observed here, in the following table of results:<br>
-<a href="https://popsql.com/queries/-MZii5f1IF7Ug899yZjl/total-pcr-tests-performed-last-7-days?access_token=43a3d6318230d4bfd5bb90aa6ca81421" target="_blank" rel="noopener noreferrer">Query for Question 1 Compare</a> 
+<b>Analysis</b>:  The number of PCR tests completed yesterday was the lowest observed volume of tests in the last 30 days, specifically 256,107 tests completed. This can be further observed here, in the following table of results:
+<a href="https://popsql.com/queries/-MZii5f1IF7Ug899yZjl/total-pcr-tests-performed-last-7-days?access_token=43a3d6318230d4bfd5bb90aa6ca81421" target="_blank" rel="noopener noreferrer">Query for Question 1, last 30 days</a><br> 
 
 2. The 7-day rolling average number of new cases per day for the last 30 days:<br>
 <a href="https://popsql.com/queries/-MZib598zmVIg0gsnCIA/7-day-rolling-avg-positive-cases-last-30-days-may-2-2021?access_token=ac585837c31d94575d6d7683c0afaa34" target="_blank" rel="noopener noreferrer">Query for Question 2</a>
