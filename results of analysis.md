@@ -16,7 +16,7 @@ Please click on the unique links below to view the query and table results in yo
 <a href="https://popsql.com/queries/-MZib598zmVIg0gsnCIA/7-day-rolling-avg-positive-cases-last-30-days-may-2-2021?access_token=ac585837c31d94575d6d7683c0afaa34" target="_blank" rel="noopener noreferrer">Query for Question 2</a>
 
 <b>Analysis</b>:  The 7 day rolling average of new positive cases has been on the decline since the beginning of the month.  
-Please see line chart in this git <a href="https://github.com/mixmastermoosa/sql/blob/54c693425b6591b02aa37d6c25748b8ab89c6bae/Positive%20Cases%20Line%20Graph%20Last%2030%20days.png" here </a>
+Please see line chart in this git <a href="https://github.com/mixmastermoosa/sql/blob/54c693425b6591b02aa37d6c25748b8ab89c6bae/Positive%20Cases%20Line%20Graph%20Last%2030%20days.png"> here </a>
 
 <b>Q3.</b> The 10 states with the highest test positivity rate (positive tests / tests performed) for tests performed in the last 30 days:<br>
 <a href="https://popsql.com/queries/-MZib7bt_7PH3vwmmdni/top-10-positive-cases-by-state-last-30-days-may-2-2021?access_token=64eb653924b1caa17e4bfc4bd3c71b87" target="_blank" rel="noopener noreferrer">Query for Question 3</a>
