@@ -7,11 +7,11 @@ The following queries were generated to answer questions based on the Torch Data
 Please click on the unique links below to view the query and table results in your browser, no authentication is required.  
 
 1. The total number of PCR tests performed as of yesterday in the United States:
-https://popsql.com/queries/-MZib2bl60J_nEgoNW2w/total-number-pcr-tests-performed-yesterday-may-2-2021?access_token=c592fb181f77557d8f352587315e3bdf
+<a href="https://popsql.com/queries/-MZib2bl60J_nEgoNW2w/total-number-pcr-tests-performed-yesterday-may-2-2021?access_token=c592fb181f77557d8f352587315e3bdf" target="_blank" rel="noopener noreferrer">Question1</a>
 
-<b>Analysis</b>:  The number of PCR tests completed is the lowest in the last 30 days, at 256,107.  
+<b>Analysis</b>:  The number of PCR tests completed are the lowest observed in the last 30 days at 256,107.  
 
-This can be observed here, in the following table of results:
+This can be further observed here, in the following table of results:
 https://popsql.com/queries/-MZii5f1IF7Ug899yZjl/total-pcr-tests-performed-last-7-days?access_token=43a3d6318230d4bfd5bb90aa6ca81421
 
 2. The 7-day rolling average number of new cases per day for the last 30 days:
